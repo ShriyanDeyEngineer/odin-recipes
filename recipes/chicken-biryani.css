@@ -1,0 +1,58 @@
+body
+{
+    margin: 0px;
+    background-color: rgb(46, 165, 60);
+    padding: 10px;
+}
+
+h1
+{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+h2
+{
+    text-align: center;
+}
+
+#header-container
+{
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+#home-link-and-image-with-credit
+{
+    padding: 15px;
+    text-align: center;
+}
+
+#description-content
+{
+    padding: 15px;
+    background-color: #046A38;
+}
+
+#ingredients-content
+{
+    padding: 15px;
+    background-color: green;
+}
+
+#steps-content
+{
+    padding: 15px;
+    background-color: greenyellow;
+}
+
+.content h2
+{
+    color: #FF671F;
+}
+
+a
+{
+    color: #06038D;
+}
